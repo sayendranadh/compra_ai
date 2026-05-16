@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat-Based Layout Agent
 
 A local web app for editing design layout JSON through chat. The frontend shows the current JSON and a wireframe preview, while the Express backend interprets natural language layout instructions and safely returns an updated layout.
@@ -97,3 +98,6 @@ git commit -m "docs: add setup and approach notes"
 - Deploy `server/` with AWS Elastic Beanstalk or another Node.js hosting target.
 - Store `ANTHROPIC_API_KEY` only as a backend environment variable.
 - Set frontend `VITE_API_URL` to the deployed backend URL.
+=======
+# compra_ai
+>>>>>>> dd14afac137cf0bf68ff3145c9dc971a6936870d
